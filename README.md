@@ -51,8 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/phantoooomCam/phantoooomCam/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">📫 Contacto<br><br>📧 Correo: bigocam123@gmail.com<br>💼 LinkedIn: Diego Flores<br>🌐 Portafolio: phanthoom.febacode.com<br>🖥 febacode.com</p>
